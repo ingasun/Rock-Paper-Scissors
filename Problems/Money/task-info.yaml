@@ -1,0 +1,20 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    transactions = [(38177, 34.38), (876, 999.99), (654276, 653678), (54366, 0.99),
+                    (546, 987.65), (876, 3456), (654276, 0.55), (38177, 876.75), (876, 98.7)]
+
+    # create transaction_dict
+  learner_created: false
+- name: main.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/7995
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Mon, 07 Sep 2020 23:22:50 UTC
+record: -1

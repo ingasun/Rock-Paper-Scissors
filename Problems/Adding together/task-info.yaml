@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    a = int(input())
+    b = int(input())
+
+    # calculate the sum below
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6884#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6884#comment">JetBrains
+    Academy</a></html>
+  time: Mon, 08 Mar 2021 11:21:35 UTC
+record: -1
